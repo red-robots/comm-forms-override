@@ -1,0 +1,11 @@
+.tribe-section-custom-fields .tribe-section-header h3 {
+	width: auto;
+	float: left;
+}
+.tribe-section-custom-fields .tribe-section-header .disclaimer {
+	width: 50%;
+	float: left;
+	margin-left: 20px;
+	color: red;
+	font-size: 13px;
+}
