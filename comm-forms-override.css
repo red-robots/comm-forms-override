@@ -9,3 +9,6 @@
 	color: red;
 	font-size: 13px;
 }
+#event_tribe_organizer.tribe-section-organizer {
+	display: none;
+}
